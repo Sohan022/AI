@@ -45,3 +45,5 @@ Give the input number of cities and their adjacency matrix like
 
 8 &nbsp; 2 &nbsp;  20 &nbsp; 4 &nbsp;  0 &nbsp;
 
+**Optimal path cost:** 32
+
