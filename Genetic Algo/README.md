@@ -4,13 +4,13 @@
 
 Given N student, distribute into K groups such that diversity is minimize using the marks of M subjects.
 
-## Explaination
+## Explanation
 
 **Chromosome:** Generate random marks of *N* student in *M* subjects and store into 2D array.
 
 **Population:** Randomly select 50 chromosome for Initial population which divided into *K* groups and Group Representative is average value of group.
 
-**Fitness Value:** Take absolute value of difference of group representative and studnet's marks.
+**Fitness Value:** Take absolute value of difference of group representative and student's marks.
 
 **Selection:** Select two parent by Tournament Selection.
 
