@@ -29,21 +29,6 @@ g++ TSP.cpp
 
 ## Input & Output
 
-Give the input number of cities and their adjacency matrix like
+**Input File:** *https://github.com/Sohan022/AI/blob/master/TSP/input.txt*
 
-**Enter the no. of Cities:** 5
-
-**Enter the path cost**
-
-0 &nbsp; 12 &nbsp;10  &nbsp;19  &nbsp;8 &nbsp;
-
-12  &nbsp;0 &nbsp; 3 &nbsp;  7 &nbsp;  2 &nbsp;
-
-10 &nbsp; 3 &nbsp;  0 &nbsp;  6 &nbsp;  20
-
-19 &nbsp; 7 &nbsp;  6 &nbsp;  0 &nbsp;  4 &nbsp;
-
-8 &nbsp; 2 &nbsp;  20 &nbsp; 4 &nbsp;  0 &nbsp;
-
-**Optimal path cost:** 32
-
+**Output File:** *https://github.com/Sohan022/AI/blob/master/TSP/output.txt*
