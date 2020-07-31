@@ -1,0 +1,10 @@
+----------Welecome to the game to sticks----------
+
+Options:
+1.Human vs Human
+2.Computer vs Human
+3.Computer vs Computer
+4.Exit
+choose above options: 3
+
+Enter the number of sticks: 53

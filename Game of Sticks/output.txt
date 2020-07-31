@@ -1,0 +1,86 @@
+TOSS...
+Player 2 Won the toss
+
+Player 2: pick 1 sticks
+
+Remaining sticks: 52
+Player 1: pick 3 sticks
+
+Remaining sticks: 49
+Player 2: pick 1 sticks
+
+Remaining sticks: 48
+Player 1: pick 3 sticks
+
+Remaining sticks: 45
+Player 2: pick 1 sticks
+
+Remaining sticks: 44
+Player 1: pick 3 sticks
+
+Remaining sticks: 41
+Player 2: pick 1 sticks
+
+Remaining sticks: 40
+Player 1: pick 3 sticks
+
+Remaining sticks: 37
+Player 2: pick 1 sticks
+
+Remaining sticks: 36
+Player 1: pick 3 sticks
+
+Remaining sticks: 33
+Player 2: pick 1 sticks
+
+Remaining sticks: 32
+Player 1: pick 3 sticks
+
+Remaining sticks: 29
+Player 2: pick 1 sticks
+
+Remaining sticks: 28
+Player 1: pick 3 sticks
+
+Remaining sticks: 25
+Player 2: pick 1 sticks
+
+Remaining sticks: 24
+Player 1: pick 3 sticks
+
+Remaining sticks: 21
+Player 2: pick 1 sticks
+
+Remaining sticks: 20
+Player 1: pick 3 sticks
+
+Remaining sticks: 17
+Player 2: pick 1 sticks
+
+Remaining sticks: 16
+Player 1: pick 3 sticks
+
+Remaining sticks: 13
+Player 2: pick 1 sticks
+
+Remaining sticks: 12
+Player 1: pick 3 sticks
+
+Remaining sticks: 9
+Player 2: pick 1 sticks
+
+Remaining sticks: 8
+Player 1: pick 3 sticks
+
+Remaining sticks: 5
+Player 2: pick 1 sticks
+
+Remaining sticks: 4
+Player 1: pick 3 sticks
+
+Remaining sticks: 1
+Player 2: pick 1 sticks
+
+
+Player 1 Win
+Player 2 Lose

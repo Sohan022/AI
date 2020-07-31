@@ -1,0 +1,3 @@
+Enter the number of students 1000
+Enter the number of groups 30
+Enter the number of subjects 5
