@@ -23,3 +23,12 @@
 2. Human vs Computer
 
 3. Computer vs Computer
+
+## Run
+``` python3 StickGame.py```
+
+## Input & Output
+
+**Input File:** *https://github.com/Sohan022/AI/blob/master/Game%20of%20Sticks/input.txt*
+
+**Output File:** *https://github.com/Sohan022/AI/blob/master/Game%20of%20Sticks/output.txt*
